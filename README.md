@@ -1,4 +1,5 @@
-# This is Flask CRUD project 
+# This is Flask CRUD Web Application created by python, FLask and HTML
+### You can Add View Delete Employees 
 
 ![home](https://github.com/avik6401/flask-CRUD-app/assets/91059867/894b3091-327a-46ae-8551-320e5a1b404d)
 
